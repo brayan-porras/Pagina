@@ -1,0 +1,29 @@
+.app-sidebar__user-avatar{
+    width: 50px;
+    background: transparent;
+    padding: 4px;
+}
+.btn-primary {
+    color: #FFF;
+    background-color: #009688;
+    border-color: #009688;
+}
+
+.tabla{
+    width: 99%;
+}
+.headerResgister{
+    background: #009688;
+    color:  white;
+}
+.headerUpdate{
+    background: #0099ff;
+    color:  white;
+}
+.x{
+  color:  white;  
+}
+.notBlock{
+    display: none;
+    
+}
